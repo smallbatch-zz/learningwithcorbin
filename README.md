@@ -12,6 +12,8 @@ In this series, we’ll go over creating real software with AI — and I’ll te
 
 ## 📝 Lessons
 
+Test 1
+
 All lessons are available on YouTube. Click any title to watch:
 > 👍 **Like & Subscribe:** It’s free! 🤠
 
